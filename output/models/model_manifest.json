@@ -1,0 +1,10 @@
+{
+  "LSTM_fold1": "./output/models/LSTM_fold1.pt",
+  "TFT_fold1": "./output/models/TFT_fold1.pt",
+  "LSTM_fold2": "./output/models/LSTM_fold2.pt",
+  "TFT_fold2": "./output/models/TFT_fold2.pt",
+  "LSTM_fold3": "./output/models/LSTM_fold3.pt",
+  "TFT_fold3": "./output/models/TFT_fold3.pt",
+  "LSTM_fold4": "./output/models/LSTM_fold4.pt",
+  "TFT_fold4": "./output/models/TFT_fold4.pt"
+}

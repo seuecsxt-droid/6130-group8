@@ -1,0 +1,26 @@
+{
+  "models": [
+    "TFT",
+    "LSTM",
+    "ElasticNet",
+    "HAR-RV"
+  ],
+  "weights": {
+    "TFT": 0.417,
+    "LSTM": 0.2445,
+    "ElasticNet": 0.2094,
+    "HAR-RV": 0.129
+  },
+  "invert": {
+    "TFT": false,
+    "LSTM": false,
+    "ElasticNet": true,
+    "HAR-RV": true
+  },
+  "regime_control": true,
+  "regime_2_scale": 0.3,
+  "vol_target": 0.15,
+  "cost": 0.0005,
+  "n_deciles": 10,
+  "description": "Sharpe-weighted ensemble with regime risk control"
+}

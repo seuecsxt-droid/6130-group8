@@ -1,0 +1,8 @@
+{
+  "ElasticNet": true,
+  "HAR-RV": true,
+  "GradientBoosting": false,
+  "CatBoost": false,
+  "LSTM": false,
+  "TFT": false
+}
